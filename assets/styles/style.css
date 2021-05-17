@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100;200;300;400;500;700&display=swap');
+
+body {
+  font-family: Texturina;
+  background-image: url('../img/bg.jpg');
+  background-size: cover;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.welcome {
+  font-family: Texturina;
+  text-align: center;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.875);
+  padding: 0.05rem;
+  /*max-width: 31.5%;
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 3rem;
+  position: absolute;
+  top: 50px; */
+}
+
+.end {
+  font-family: Texturina;
+  text-align: left;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.875);
+
+}
+
+
+.welcome h1 {
+  margin: 10px 0;
+  font-size: 2rem;
+}
+
+.welcome p {
+  margin: 5px 0;
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+
+/* .img-slide {
+  margin: 10rem 0 0 0;
+  width: 75%;
+  height: 75vh;
+  display: flex;
+}
+
+
+.img {
+  flex: 1;
+  height: 100%;
+  transform: skew(5deg);
+  margin: 0 2px;
+  transition: all 0.3s;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+} */
+
+.img{
+    height: 50vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.img1 {
+  background-image: url('https://wallpapercave.com/wp/wp3082255.jpg');
+}
+.img2 {
+  background-image: url('https://lh3.googleusercontent.com/proxy/aOW5h1VzDEUg46n-IqG4NUkpAWnHXrqNmCvIio5QrQ0FQ5qNteF_WavBz-8P3QiOGRUw0y2kDx8t9sCaBuHoEotFMqS18fWqE-UswZEYrAN_yYPYk085R4ykmGf3KQ');
+}
+.img3 {
+  background-image: url('https://www.10wallpaper.com/wallpaper/1280x960/1510/linkedin_iPad_coffee-Brand_Desktop_Wallpaper_1280x960.jpg');
+}
+.img4 {
+  background-image: url('https://blog.fundacred.org.br/wp-content/uploads/2019/12/dicas-de-como-criar-um-curriculo-para-estagio.png');
+}
+
+.btn-info{
+    margin-top: .5rem;
+}
+
+.col-sm{
+    padding-left: .5rem !important;
+}
+
+
+/*
+.img p {
+  cursor: pointer;
+  position: absolute;
+  left: 5px;
+  bottom: 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.87);
+  transform: rotate(-90deg);
+  transition: all 0.3s;
+  transform-origin: 0% 0%;
+  color: #fff;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.img-slide:hover .img {
+  transform: skew(0);
+}
+
+.img:hover {
+  flex: 5;
+}
+
+.img:hover p {
+  background-color: rgba(0, 0, 0, 0.589);
+  border: 2px solid #fff;
+  color: #fff;
+  transform: rotate(0deg);
+} */
