@@ -78,16 +78,16 @@ body {
 }
 
 .img1 {
-  background-image: url('https://wallpapercave.com/wp/wp3082255.jpg');
+  background-image: url('../img/github-wallpaper.jpg');
 }
 .img2 {
-  background-image: url('https://lh3.googleusercontent.com/proxy/aOW5h1VzDEUg46n-IqG4NUkpAWnHXrqNmCvIio5QrQ0FQ5qNteF_WavBz-8P3QiOGRUw0y2kDx8t9sCaBuHoEotFMqS18fWqE-UswZEYrAN_yYPYk085R4ykmGf3KQ');
+  background-image: url('../img/codepen-wallpaper.jpg');
 }
 .img3 {
-  background-image: url('https://www.10wallpaper.com/wallpaper/1280x960/1510/linkedin_iPad_coffee-Brand_Desktop_Wallpaper_1280x960.jpg');
+  background-image: url('../img/linkedin-wallpaper.jpg');
 }
 .img4 {
-  background-image: url('https://blog.fundacred.org.br/wp-content/uploads/2019/12/dicas-de-como-criar-um-curriculo-para-estagio.png');
+  background-image: url('../img/curriculo-wallpaper.png');
 }
 
 .btn-info{
