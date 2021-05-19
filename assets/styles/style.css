@@ -35,6 +35,9 @@ body {
 
 }
 
+.end .col-sm{
+    font-size: .675rem;
+}
 
 .welcome h1 {
   margin: 10px 0;
@@ -68,7 +71,7 @@ body {
 } */
 
 .img{
-    height: 50vh;
+    height:50vh;
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -129,9 +132,3 @@ body {
   color: #fff;
   transform: rotate(0deg);
 } */
-.end{
-    width: 100%;
-}
-.end .col-sm{
-    font-size: .675rem;
-}
